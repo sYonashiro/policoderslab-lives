@@ -30,11 +30,13 @@ Apresentação: **Angelito Casagrande**
 
 Repositório: https://github.com/angelitocsg/api-dotnet-core-docker
 
-## Live #3 | Testes de Unidade são importante?
+## Live #3 | Testes de Unidade são importantes?
 
 Vídeo: https://www.youtube.com/watch?v=hSQQuRgbaLA
 
 Apresentação: **Sérgio Yonashiro**
+
+Repositório: https://github.com/sYonashiro/unit-tests
 
 ## Live #2 | Data Analysis - Gerando informação a partir dos dados
 
