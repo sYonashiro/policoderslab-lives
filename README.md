@@ -36,6 +36,8 @@ Vídeo: https://www.youtube.com/watch?v=hSQQuRgbaLA
 
 Apresentação: **Sérgio Yonashiro**
 
+Fonte de dados para os dashboards: [Testes de Unidade.pdf](files/live0003/Testes%20de%20Unidade.pdf)
+
 Repositório: https://github.com/sYonashiro/unit-tests
 
 ## Live #2 | Data Analysis - Gerando informação a partir dos dados
