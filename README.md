@@ -2,6 +2,14 @@
 
 Arquivos extras das lives da PolicodersLAB
 
+## Live #8 | React com Styled Components
+
+Vídeo: https://www.youtube.com/watch?v=q6n3AbbahIE
+
+Apresentação: **Sérgio Yonashiro**
+
+Repositório: https://github.com/sYonashiro/styled-components-live
+
 ## Live #7 | Criação de dashboards com PowerBI
 
 Vídeo: https://www.youtube.com/watch?v=9Yb84v7TpxQ
